@@ -15,6 +15,7 @@ Welcome to **Tamizhan Roleplay**, a unique SAMP roleplay server designed for the
 - ✅ [Alyn Samp Mobile](https://www.mediafire.com/file/8ig2l3miqg8w7iv/alyn_sampmobile.apk/file)
 - ✅ [GTA San Andreas (PC)](https://www.mediafire.com/file/ea1jf80a1t9ctnf/TRP_-_%255B_SAMP_%255D.zip/file) 
 - ✅ [Custom SAMP_Graphics_MOD](https://www.mediafire.com/file/hbly99z6j552rzw/Kutty_Mod_2.0.rar/file)
+- ✅ [Pc Samp Voice Plugin](https://www.mediafire.com/file/nsoqpryx21o6max/TRP+Voice+File.rar/file)
 
 ---
 
